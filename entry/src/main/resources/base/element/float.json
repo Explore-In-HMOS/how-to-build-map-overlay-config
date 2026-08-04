@@ -1,0 +1,46 @@
+{
+  "float": [
+    {
+      "name": "chip_name_size",
+      "value": "14fp"
+    },
+    {
+      "name": "chip_step_size",
+      "value": "11fp"
+    },
+    {
+      "name": "chip_radius",
+      "value": "16vp"
+    },
+    {
+      "name": "chip_padding_h",
+      "value": "14vp"
+    },
+    {
+      "name": "chip_padding_v",
+      "value": "6vp"
+    },
+    {
+      "name": "chip_margin_top",
+      "value": "54vp"
+    },
+    {
+      "name": "alert_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "alert_radius",
+      "value": "14vp"
+    },
+    {
+      "name": "alert_padding_h",
+      "value": "12vp"
+    },
+    {
+      "name": "alert_padding_v",
+      "value": "5vp"
+    }
+
+
+  ]
+}

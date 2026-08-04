@@ -1,0 +1,29 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "how to build map overlay config"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "How to Build Map Overlay Config"
+    },
+    {
+      "name": "btn_previous",
+      "value": "Prev"
+    },
+    {
+      "name": "btn_next",
+      "value": "Next"
+    },
+    {
+      "name": "rest_zone_alert",
+      "value": "Resting point nearby"
+    }
+
+  ]
+}

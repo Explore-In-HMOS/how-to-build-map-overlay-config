@@ -1,0 +1,30 @@
+{
+  "color": [
+    {
+      "name": "chip_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "chip_step_text",
+      "value": "#B0FFFFFF"
+    },
+    {
+      "name": "chip_bg",
+      "value": "#CC1A1A2E"
+    },
+    {
+      "name": "alert_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "alert_bg",
+      "value": "#DD00C853"
+    },
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    }
+
+
+  ]
+}
