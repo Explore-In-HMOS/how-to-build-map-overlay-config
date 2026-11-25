@@ -2,7 +2,7 @@
 
 # How to Build Map Overlay Config
 
-This codelab demonstrates how to configure and animate map overlays on HarmonyOS NEXT wearable Watch 5 devices using **MapKit**. The app displays a short hiking trail through Amsterdamse Bos with four `PointAnnotation` waypoints, simulates a hiker's progress via Next / Previous `ArcButton` controls, and uses `SpatialRelationUtil` to detect when the simulated position enters a rest-zone polygon triggering a proximity alert. No real GPS or location permissions are required.
+This codelab demonstrates how to configure and animate map overlays on HarmonyOS wearable Watch 5 devices using **MapKit**. The app displays a short hiking trail through Amsterdamse Bos with four `PointAnnotation` waypoints, simulates a hiker's progress via Next / Previous `ArcButton` controls, and uses `SpatialRelationUtil` to detect when the simulated position enters a rest-zone polygon triggering a proximity alert. No real GPS or location permissions are required.
 
 # Preview
 
